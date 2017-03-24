@@ -27,7 +27,5 @@
   },
   "homepage": "https://github.com/iktw/react-native-hud-view#readme",
   "dependencies": {
-    "react": "^15.4.2",
-    "react-native": "^0.42.0"
   }
 }
